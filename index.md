@@ -1,45 +1,45 @@
-👋 Hi, I'm Jeyma
-Welcome to my Data Analysis & Data Engineering Portfolio.
-I specialize in turning raw data into insights using Power BI, Python, SQL, and Azure Data Factory (ADF).
+# 👋 Hi, I'm Jeyma!
 
-📊 Featured Projects (Planned projects, not yet builded)
-🔹 Power BI Sales Dashboard
-Cleaned and modeled retail sales data.
-Built KPIs: Revenue, Profit Margin, YoY Growth.
-Published interactive dashboard in Power BI Service.
+Welcome to my **Data Analysis & Data Engineering Portfolio**.  
+I turn data into actionable insights using **Power BI, Python, SQL, and Azure Data Factory (ADF)**.
 
-🔹 KPI Dashboard with DAX
-Designed measures for executive KPIs.
-Built time-intelligence metrics (YoY, rolling averages).
+---
 
-🔹 SQL Business Analysis
-Analyzed sample database (Chinook/Northwind).
-Wrote queries for top customers, sales trends, and product insights.
+## 📊 Skills & Tools
+- **Visualization:** Power BI  
+- **Data Wrangling:** Python (pandas, matplotlib, seaborn)  
+- **Databases:** SQL Server, PostgreSQL  
+- **Cloud & Pipelines:** Azure (ADF, Data Lake, Synapse)  
+- **Version Control:** Git/GitHub  
 
-🔹 Python Data Cleaning Pipeline
-Used Pandas to clean and transform messy datasets.
-Exported results into SQL for analysis.
+---
 
-🔹 Azure Data Factory End-to-End Pipeline
-Ingested raw CSV/API data into Azure Data Lake.
-Transformed and loaded into Azure SQL Database using ADF.
-Built Power BI dashboard on top of warehouse.
+## 🎓 Certifications
+- Microsoft Certified: **Data Analyst Associate (PL-300)** — *in progress*  
+- Microsoft Certified: **Azure Data Engineer Associate (DP-203)** — *planned*  
+- IBM Data Analyst Certificate — *planned*  
 
-🎓 Certifications
-Microsoft Certified: Data Analyst Associate (PL-300) — in progress
-Microsoft Certified: Azure Data Engineer Associate (DP-203) — planned
-IBM Data Analyst Certificate (Coursera) — planned
+---
 
-🛠 Tech Stack
-Visualization: Power BI
-Data Wrangling: Python (pandas, matplotlib, seaborn)
-Databases: SQL Server, PostgreSQL
-Cloud: Azure (Data Factory, Data Lake, Synapse)
-Version Control: Git/GitHub
+## 🔹 Upcoming Projects
 
-📬 Contact
-LinkedIn: www.linkedin.com/in/jeyma-rodriguez-1b933523a
-Email: jobsearch.amusing616@slmails.com
-GitHub: https://github.com/jeymarp
+| Project | Description |
+|---------|-------------|
+| 📊 **Power BI Sales Dashboard** | Coming soon – Build interactive sales dashboards and KPIs |
+| 🐍 **Python Data Cleaning Pipeline** | Coming soon – Automate data cleaning and transformation |
+| 🗄️ **SQL Business Analysis** | Coming soon – Query databases to generate insights |
+| ☁️ **Azure ADF Pipeline** | Coming soon – End-to-end cloud pipeline with dashboards |
 
-💡 Tip: Click into each project folder for detailed README, code, and screenshots.
+> 💡 Placeholders show what’s coming. Projects will be updated with screenshots, code, and reports as they are completed.
+
+---
+
+## 📬 Contact
+- **LinkedIn:** www.linkedin.com/in/jeyma-rodriguez-1b933523a
+- **Email:** jobsearch.amusing616@slmails.com
+- **GitHub:** https://github.com/jeymarp
+
+---
+
+> ⚡ Tip: Check back later to see dashboards, notebooks, and cloud pipelines live.
+
