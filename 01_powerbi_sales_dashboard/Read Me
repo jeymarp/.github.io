@@ -1,0 +1,30 @@
+# 📊 Power BI Sales Dashboard
+
+## 📝 Overview
+Brief description of the project.  
+Example: "Analyzed retail sales data to identify revenue trends, top-performing products, and regional KPIs."
+
+## 🔧 Tools Used
+- Power BI (or Python, SQL, Azure, depending on project)
+- Dataset: [link to dataset or description]
+
+## 📂 Folder Contents
+- `data/` – sample datasets (optional)
+- `reports/` – Power BI files or analysis outputs
+- `images/` – screenshots of dashboards, charts, or visuals
+
+## 🚀 Steps
+1. Data collection & cleaning
+2. Data modeling / transformation
+3. Analysis / calculations / DAX formulas
+4. Visualization & dashboard design
+5. Publishing / sharing
+
+## 📊 Key Insights
+- Highlight 3–5 insights discovered from the data
+- Example: "Revenue grew YoY by 12%"
+- Example: "Top customers drive 40% of profit"
+
+## 📌 Next Steps
+- Potential improvements or further analysis
+- Example: "Automate data refresh via Azure pipelines"
